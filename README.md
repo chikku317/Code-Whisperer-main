@@ -23,7 +23,7 @@ This guide will show you how to use a helpful tool that offers code suggestions 
 
 Using Amazon Q, an interactive, generative AI-powered assistant available within Amazon Code Whisperer, you can have a conversation about your code through a simple interface. Amazon Q explains your code, suggests you codes, and can even flag or filter codes.
 
-[![ALT](C:\Users\qaimperium\Desktop\Code Whisperer\GIt\Code-Whisperer-main\blob\master\Code_JC8gYQhhTF.gif)]
+[![ALT](https://github.com/chikku317/Code-Whisperer-main/blob/main/blob/master/Code_JC8gYQhhTF.gif)]
 
 ### Prerequistes
 - An AWS account with access to Amazon Code Whisperer
@@ -39,7 +39,7 @@ Amazon Code Whisperer examines the context. It suggests code snippets for you. T
 Code Whisperer analyzes context and suggests code snippets. This eliminates writing repetitive code samples repeatedly. You save time and effort, saving time and effort.
 In the following example, I requested Amazon Q to suggest me a java code sample for user login form to handle user authentication.
 
-[![ALT](C:\Users\qaimperium\Desktop\Code Whisperer\GIt\Code-Whisperer-main\images\Code_Oix7LxBu1U.gif)]
+[![ALT](https://github.com/chikku317/Code-Whisperer-main/blob/main/blob/master/Code_Oix7LxBu1U.gif)]
 
 **Enhanced Documentation Accuracy**
 Code Whisperer provides code completions that match the developer's intent. This ensures your documentation includes accurate and up-to-date code samples, fostering trust in your work.
@@ -47,7 +47,7 @@ Code Whisperer provides code completions that match the developer's intent. This
 ***Use Case***
 Including an incorrect code snippet in your documentation can be confusing for developers. In such scenarios where you ae unsure about the exact syntax for a specific function, you can refer to Amazon Q. It provides most accurate information about technical components, logics, and facts inside your code.
 In the following example, I asked Amazon Q to explain a part of code to me.
-[![ALT](C:\Users\qaimperium\Desktop\Code Whisperer\GIt\Code-Whisperer-main\blob\master\Code_Loc1yxRA8B.gif)]
+[![ALT](https://github.com/chikku317/Code-Whisperer-main/blob/main/blob/master/Code_Loc1yxRA8B.gif)]
 
 **Streamlined Documentation Updates**
 Whenever the developers push a latest change, and if the updated function is within Code Whisperer's capabilities, the suggested code snippets in your documentation might automatically reflect the changes. This can save you time and effort in manually updating code samples.
